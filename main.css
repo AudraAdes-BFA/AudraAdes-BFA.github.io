@@ -1,11 +1,14 @@
-body {
-  margin: 30px auto;
-  max-width: 1000px;
-  font-family: "Helvetica", "Arial", sans-serif;
-  line-height: 1.5;
-  padding: 30px 20px;
-}
+body {margin: 0 auto; text-align: center; background-color:grey;}
 
 h1 {
-  padding: 20px 0px 10px 0px;
+  color: #ffccff;
+  font-family: pacifico;
+  text-align: center;
+font-size: 70px;
+background-color: #333333;
+}
+a{
+  color:#333333;
+  font-size: 30px;
+  font-family: courier;
 }
