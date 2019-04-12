@@ -1,0 +1,14 @@
+body {margin: 0 auto; text-align: center; background-color:grey;}
+
+h1 {
+  color: #ffccff;
+  font-family: pacifico;
+  text-align: center;
+font-size: 70px;
+background-color: #333333;
+}
+p{
+  color:#333333;
+  font-size: 25px;
+  font-family: courier;
+}
